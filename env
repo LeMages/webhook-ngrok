@@ -1,0 +1,5 @@
+GITHUB_WEBHOOK_SECRET=mets_un_secret_fort_ici
+REPO_URL=https://github.com/LeMages/webhook-ngrok.git
+DEPLOY_DIR=C:\Users\loicc\deployed-react-app
+TARGET_BRANCH=main
+WEBHOOK_PORT=9000
